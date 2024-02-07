@@ -1,2 +1,3 @@
 # oding-landing-page
-Only html and css
+Styling my fisrt web page
+Consists ot HTML and CSS only
