@@ -1,3 +1,3 @@
-# oding-landing-page
+# odin-landing-page
 Styling my fisrt web page
 Consists ot HTML and CSS only
